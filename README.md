@@ -100,24 +100,31 @@
 
 ```
 sora-deriv-talkingbot/
-├── app.py                 # Main Flask application
-├── routes.py              # Route handlers and API endpoints
-├── config.py              # Configuration settings
-├── chat_handler.py        # Chat functionality
-├── rag_agent.py          # RAG agent logic
-├── rag_pipeline.py       # RAG processing pipeline
-├── voice_utils.py        # Voice processing utilities
-├── content_generators.py # Dynamic content generation
-├── requirements.txt      # Python dependencies
-├── static/
-│   ├── css/
-│   │   └── styles.css    # Application styling
-│   └── js/
-│       └── chatbot.js    # Frontend JavaScript
-├── templates/            # HTML templates (if any)
-├── deriv_urls.json      # URL configuration data
-├── setup_guide.md       # Detailed setup instructions
-└── README.md           # Project documentation
+├── app.py                    # 🚀 Main Flask application entry point
+├── requirements.txt          # 📦 Python dependencies
+├── src/                      # 🔧 Core Application
+│   ├── config.py            #   Configuration settings
+│   ├── routes.py            #   Route handlers and API endpoints  
+│   └── templates.py         #   HTML template renderer
+├── ai/                       # 🤖 AI/RAG Components
+│   ├── chat_handler.py      #   Chat functionality
+│   ├── rag_agent.py         #   RAG agent logic
+│   ├── rag_pipeline.py      #   RAG processing pipeline
+│   ├── voice_utils.py       #   Voice processing utilities
+│   └── content_generators.py #   Dynamic content generation
+├── data/                     # 📊 Data & Configuration
+│   └── deriv_urls.json      #   URL configuration data
+├── scrapy/                   # 🕷️ Web Scraping Tools
+│   ├── ScrapyUrls.py        #   Main spider for URL extraction
+│   ├── scrapy.cfg           #   Scrapy project configuration
+│   └── scrapy_settings.py   #   Spider behavior settings
+├── docs/                     # 📚 Documentation
+│   ├── setup_guide.md       #   Detailed setup instructions
+│   └── SOLUTION_FIXED.md    #   Technical documentation
+├── static/                   # 🎨 Frontend Assets
+│   ├── css/styles.css       #   Application styling
+│   └── js/chatbot.js        #   Frontend JavaScript
+└── .gitignore               # 🚫 Git exclusions
 ```
 
 ## 🎯 Usage Examples
