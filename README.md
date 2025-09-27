@@ -1,0 +1,225 @@
+# 🤖 Sora - Deriv AI Trading Assistant
+
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+**Sora** is an AI-powered voice trading assistant for the Deriv platform, featuring a comprehensive RAG (Retrieval-Augmented Generation) chatbot with voice capabilities, real-time market simulation, and intelligent trading assistance.
+
+## 🌟 Features
+
+### 🎙️ Voice Interface
+- **Speech-to-Text**: Click the microphone button to speak your queries
+- **Text-to-Speech**: The bot responds with voice feedback
+- **Web Speech API**: Browser-based speech capabilities
+- **Real-time Voice Processing**: Instant voice command recognition
+
+### 💬 AI Chat Assistant
+- **RAG-Powered**: Retrieves information from comprehensive Deriv knowledge base
+- **Context Awareness**: Maintains conversation history
+- **Multi-turn Conversations**: Natural dialogue flow
+- **Trading Expertise**: Specialized in Deriv trading platforms and strategies
+
+### 📊 Trading Platform Simulation
+- **Dynamic Routing**: Based on real Deriv URLs structure
+- **Market Data Simulation**: Real-time trading data visualization
+- **Complete Site Navigation**: Full Deriv platform replica
+- **Responsive Design**: Modern, mobile-friendly interface
+
+### 📚 Knowledge Base
+- **200+ Deriv Assets**: Comprehensive trading instruments
+- **Platform Guides**: MT5, cTrader, Deriv X documentation
+- **Trading Strategies**: Expert trading guidance
+- **Account Management**: Deposits, withdrawals, verification help
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Python 3.8+
+- Google API Key (for Gemini AI)
+- Modern web browser with speech API support
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yeswanthsairam/sora-deriv-talkingbot.git
+   cd sora-deriv-talkingbot
+   ```
+
+2. **Create virtual environment**
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Set up environment variables**
+   ```bash
+   export GOOGLE_API_KEY=your_google_api_key_here
+   ```
+   Or create a `.env` file:
+   ```
+   GOOGLE_API_KEY=your_google_api_key_here
+   ```
+
+5. **Run the application**
+   ```bash
+   python app.py
+   ```
+
+6. **Access the application**
+   Open your browser and navigate to: `http://localhost:8081`
+
+## 🔧 Technical Architecture
+
+### Backend Stack
+- **Flask**: Web framework with async support
+- **LangChain**: RAG pipeline orchestration
+- **Google Gemini**: Large Language Model
+- **ChromaDB**: Vector database for embeddings
+- **BM25**: Sparse retrieval for hybrid search
+
+### Frontend Stack
+- **HTML5/CSS3**: Modern responsive design
+- **JavaScript**: Interactive chat interface
+- **Web Speech API**: Browser-based voice processing
+- **Bootstrap**: UI components and styling
+
+### AI/ML Components
+- **Sentence Transformers**: Text embeddings
+- **Hybrid Retrieval**: Dense + Sparse search
+- **Reranking**: Improved search relevance
+- **Context Management**: Conversation memory
+
+## 📁 Project Structure
+
+```
+sora-deriv-talkingbot/
+├── app.py                 # Main Flask application
+├── routes.py              # Route handlers and API endpoints
+├── config.py              # Configuration settings
+├── chat_handler.py        # Chat functionality
+├── rag_agent.py          # RAG agent logic
+├── rag_pipeline.py       # RAG processing pipeline
+├── voice_utils.py        # Voice processing utilities
+├── content_generators.py # Dynamic content generation
+├── requirements.txt      # Python dependencies
+├── static/
+│   ├── css/
+│   │   └── styles.css    # Application styling
+│   └── js/
+│       └── chatbot.js    # Frontend JavaScript
+├── templates/            # HTML templates (if any)
+├── deriv_urls.json      # URL configuration data
+├── setup_guide.md       # Detailed setup instructions
+└── README.md           # Project documentation
+```
+
+## 🎯 Usage Examples
+
+### Voice Commands
+- *"What is Deriv?"*
+- *"How do I trade cryptocurrency?"*
+- *"Tell me about Deriv MT5"*
+- *"What are the trading fees?"*
+- *"Explain copy trading"*
+
+### Chat Interface
+- Type questions about trading, platforms, or strategies
+- Ask for account management help
+- Request market analysis guidance
+- Get platform navigation assistance
+
+## 🔗 API Endpoints
+
+- `GET /` - Main application interface
+- `POST /chat` - Chat API endpoint
+- `GET /site-map` - Available pages overview
+- `GET /api/status` - Health check
+- `POST /voice/process` - Voice processing endpoint
+
+## 🛠️ Configuration
+
+### Environment Variables
+- `GOOGLE_API_KEY`: Required for Gemini AI integration
+- `FLASK_ENV`: Set to 'development' for debug mode
+- `PORT`: Custom port (default: 8081)
+
+### Optional Configuration
+- Vector database will be created automatically on first run
+- BM25 index will be built from available data
+- Chat history is maintained in session
+
+## 🧪 Testing
+
+Run the test suite to verify functionality:
+```bash
+python -m pytest tests/
+```
+
+For manual testing:
+```bash
+python test_rag_agent.py
+```
+
+## 🚨 Troubleshooting
+
+### Common Issues
+
+**Port Already in Use:**
+```bash
+lsof -ti:8081 | xargs kill -9
+```
+
+**Missing Dependencies:**
+```bash
+pip install -r requirements.txt --upgrade
+```
+
+**API Key Issues:**
+- Verify `GOOGLE_API_KEY` is set correctly
+- Check API quotas and permissions
+- Ensure internet connection for API calls
+
+**Voice Not Working:**
+- Use HTTPS or localhost for speech API
+- Check browser permissions for microphone
+- Ensure browser supports Web Speech API
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- **Deriv**: For the comprehensive trading platform
+- **Google Gemini**: AI model powering the assistant
+- **LangChain**: RAG framework and tools
+- **ChromaDB**: Vector database solution
+- **Flask**: Web framework foundation
+
+## 📞 Support
+
+For support and questions:
+- 📧 Email: [your-email@example.com]
+- 💬 GitHub Issues: [Open an issue](https://github.com/yeswanthsairam/sora-deriv-talkingbot/issues)
+- 📖 Documentation: Check `setup_guide.md` for detailed setup
+
+---
+
+**⭐ If you find this project helpful, please give it a star!**
+
+*Built with ❤️ for the Deriv trading community*

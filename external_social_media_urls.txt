@@ -1,0 +1,20 @@
+EXTERNAL SOCIAL_MEDIA URLS
+==========================
+Generated on: 2025-09-05 23:53:02
+Total URLs: 5
+
+1. https://www.facebook.com/derivdotcom/
+   Type: social_media
+
+2. https://twitter.com/derivdotcom/
+   Type: social_media
+
+3. https://www.instagram.com/deriv_official/
+   Type: social_media
+
+4. https://www.youtube.com/@deriv
+   Type: social_media
+
+5. https://www.linkedin.com/company/derivdotcom/
+   Type: social_media
+

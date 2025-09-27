@@ -1,0 +1,1459 @@
+[
+{
+  "page_url": "https://deriv.com/",
+  "total_urls_found": 180,
+  "internal_urls": [
+    {
+      "url": "https://deriv.com/",
+      "text": "en",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trade/cfds",
+      "text": "CFDs",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trade/cfds",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trade/options",
+      "text": "Options",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trade/options",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/markets/forex",
+      "text": "Forex",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/markets/forex",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/markets/derived-indices/synthetic-indices",
+      "text": "Derived Indices",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/markets/derived-indices/synthetic-indices",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/markets/stocks",
+      "text": "Stocks",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/markets/stocks",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/markets/stock-indices",
+      "text": "Stock Indices",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/markets/stock-indices",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/markets/commodities",
+      "text": "Commodities",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/markets/commodities",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/markets/cryptocurrencies",
+      "text": "Cryptocurrencies",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/markets/cryptocurrencies",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/markets/etfs",
+      "text": "ETFs",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/markets/etfs",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/payment-methods",
+      "text": "Payment methods",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/payment-methods",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/tradingview",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/tradingview",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/mt5-trading-signals",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/mt5-trading-signals",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trading-calculator",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trading-calculator",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trading-central",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trading-central",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/economic-calendar",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/economic-calendar",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/market-buzz",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/market-buzz",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trading-platforms/deriv-mt5",
+      "text": "Deriv MT5",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trading-platforms/deriv-mt5",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trading-platforms/deriv-x",
+      "text": "Deriv X",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trading-platforms/deriv-x",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trading-platforms/deriv-nakala",
+      "text": "Deriv Nakala",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trading-platforms/deriv-nakala",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trading-platforms/deriv-ctrader",
+      "text": "Deriv cTrader",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trading-platforms/deriv-ctrader",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trading-platforms/deriv-trader",
+      "text": "Deriv Trader",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trading-platforms/deriv-trader",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trading-platforms/deriv-bot",
+      "text": "Deriv Bot",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trading-platforms/deriv-bot",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trading-platforms/deriv-go",
+      "text": "Deriv GO",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trading-platforms/deriv-go",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://smarttrader.deriv.com/",
+      "text": "No text found",
+      "type": "page",
+      "domain": "smarttrader.deriv.com",
+      "path": "/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/academy",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/academy",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/blog",
+      "text": "Deriv Blog",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/blog",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/trading-terms-glossary",
+      "text": "Glossary",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/trading-terms-glossary",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/help-centre",
+      "text": "Help centre",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/help-centre",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://community.deriv.com/",
+      "text": "No text found",
+      "type": "page",
+      "domain": "community.deriv.com",
+      "path": "/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/contact-us",
+      "text": "Contact us",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/contact-us",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/who-we-are",
+      "text": "Who we are",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/who-we-are",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/why-choose-us",
+      "text": "Why choose us",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/why-choose-us",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/regulatory",
+      "text": "Regulatory information",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/regulatory",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/responsible",
+      "text": "Secure & responsible trading Secure and Responsible Trading",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/responsible",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/careers",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/careers",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/newsroom",
+      "text": "Newsroom",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/newsroom",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/partners",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/partners",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/fr",
+      "text": "fr",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/fr",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/ar",
+      "text": "ar",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/ar",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/pt",
+      "text": "pt",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/pt",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/es",
+      "text": "es",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/es",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/ru",
+      "text": "ru",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/ru",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/vi",
+      "text": "vi",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/vi",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/bn",
+      "text": "bn",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/bn",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/si",
+      "text": "si",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/si",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/tr",
+      "text": "tr",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/tr",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/sw",
+      "text": "sw",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/sw",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/zh-cn",
+      "text": "zh-CN",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/zh-cn",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/zh-tw",
+      "text": "zh-TW",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/zh-tw",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/ko",
+      "text": "ko",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/ko",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/it",
+      "text": "it",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/it",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/de",
+      "text": "de",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/de",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/pl",
+      "text": "pl",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/pl",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/uz",
+      "text": "uz",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/uz",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/appstore/traders-hub",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/appstore/traders-hub",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/signup",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/signup",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/newsroom/updates/deriv-achieves-prestigious-platinum-accreditation-by-investors-in-people",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/newsroom/updates/deriv-achieves-prestigious-platinum-accreditation-by-investors-in-people",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/p2p",
+      "text": "Deriv P2P",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/p2p",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://api.deriv.com/",
+      "text": "No text found",
+      "type": "page",
+      "domain": "api.deriv.com",
+      "path": "/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/our-principles",
+      "text": "Our principles",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/our-principles",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/derivtech",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/derivtech",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/derivlife",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/derivlife",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/partners/deriv-prime",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/partners/deriv-prime",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/terms-and-conditions",
+      "text": "Terms & conditions Terms and Conditions",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/terms-and-conditions",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com/fraud-prevention",
+      "text": "Fraud prevention",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "/fraud-prevention",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://docs.deriv.com/tnc/risk-disclosure.pdf",
+      "text": "Risk Disclosure",
+      "type": "document",
+      "domain": "docs.deriv.com",
+      "path": "/tnc/risk-disclosure.pdf",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.com",
+      "text": "No text found",
+      "type": "page",
+      "domain": "deriv.com",
+      "path": "",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://region-assets.deriv.com",
+      "text": "No text found",
+      "type": "page",
+      "domain": "region-assets.deriv.com",
+      "path": "",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://region-assets.deriv.com/hero.webp",
+      "text": "No text found",
+      "type": "image",
+      "domain": "region-assets.deriv.com",
+      "path": "/hero.webp",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://login.deriv.com/signin.php",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "login.deriv.com",
+      "path": "/signin.php",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://login.deriv.com/signup.php",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "login.deriv.com",
+      "path": "/signup.php",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://bot.deriv.com/",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "bot.deriv.com",
+      "path": "/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://docs.deriv.com",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "docs.deriv.com",
+      "path": "",
+      "found_on_page": "https://deriv.com/"
+    }
+  ],
+  "external_urls": [
+    {
+      "url": "https://www.trustpilot.com/review/deriv.com?utm_medium=trustbox&utm_source=Mini",
+      "text": "No text found",
+      "type": "page",
+      "domain": "www.trustpilot.com",
+      "path": "/review/deriv.com",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.trustpilot.com/reviews/6735048a9b114ef39d4d33ab",
+      "text": "No text found",
+      "type": "page",
+      "domain": "www.trustpilot.com",
+      "path": "/reviews/6735048a9b114ef39d4d33ab",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.trustpilot.com/reviews/6735c274af06f8b66f7e208b",
+      "text": "No text found",
+      "type": "page",
+      "domain": "www.trustpilot.com",
+      "path": "/reviews/6735c274af06f8b66f7e208b",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.trustpilot.com/reviews/6736638bb5a94ebae4480c15",
+      "text": "No text found",
+      "type": "page",
+      "domain": "www.trustpilot.com",
+      "path": "/reviews/6736638bb5a94ebae4480c15",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.trustpilot.com/reviews/6735c85fa58a77f3c9cad43a",
+      "text": "No text found",
+      "type": "page",
+      "domain": "www.trustpilot.com",
+      "path": "/reviews/6735c85fa58a77f3c9cad43a",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.trustpilot.com/reviews/6733c76b1abe3a0b22bbd540",
+      "text": "No text found",
+      "type": "page",
+      "domain": "www.trustpilot.com",
+      "path": "/reviews/6733c76b1abe3a0b22bbd540",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.trustpilot.com/reviews/6735db5b6b0ccb9e97e5f281",
+      "text": "No text found",
+      "type": "page",
+      "domain": "www.trustpilot.com",
+      "path": "/reviews/6735db5b6b0ccb9e97e5f281",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.trustpilot.com/reviews/67327e26ecb240d7f93823a0",
+      "text": "No text found",
+      "type": "page",
+      "domain": "www.trustpilot.com",
+      "path": "/reviews/67327e26ecb240d7f93823a0",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=35699578341&text&type=phone_number&app_absent=0",
+      "text": "No text found",
+      "type": "page",
+      "domain": "api.whatsapp.com",
+      "path": "/send/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://deriv.ae/",
+      "text": "Go to homepage",
+      "type": "page",
+      "domain": "deriv.ae",
+      "path": "/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.facebook.com/derivdotcom/",
+      "text": "No text found",
+      "type": "social_media",
+      "domain": "www.facebook.com",
+      "path": "/derivdotcom/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://twitter.com/derivdotcom/",
+      "text": "No text found",
+      "type": "social_media",
+      "domain": "twitter.com",
+      "path": "/derivdotcom/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.instagram.com/deriv_official/",
+      "text": "No text found",
+      "type": "social_media",
+      "domain": "www.instagram.com",
+      "path": "/deriv_official/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.youtube.com/@deriv",
+      "text": "No text found",
+      "type": "social_media",
+      "domain": "www.youtube.com",
+      "path": "/@deriv",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.linkedin.com/company/derivdotcom/",
+      "text": "No text found",
+      "type": "social_media",
+      "domain": "www.linkedin.com",
+      "path": "/company/derivdotcom/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://t.me/Derivchannelofficial",
+      "text": "No text found",
+      "type": "page",
+      "domain": "t.me",
+      "path": "/Derivchannelofficial",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://status.deriv.systems/",
+      "text": "No text found",
+      "type": "page",
+      "domain": "status.deriv.systems",
+      "path": "/",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.deriv.app",
+      "text": "No text found",
+      "type": "page",
+      "domain": "play.google.com",
+      "path": "/store/apps/details",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://apps.apple.com/my/app/deriv-go-online-trading-app/id1550561298",
+      "text": "No text found",
+      "type": "page",
+      "domain": "apps.apple.com",
+      "path": "/my/app/deriv-go-online-trading-app/id1550561298",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://appgallery.huawei.com/app/C103801913",
+      "text": "No text found",
+      "type": "page",
+      "domain": "appgallery.huawei.com",
+      "path": "/app/C103801913",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/css/deriv-staged-2dfc316890fbbd8e3ed6d351bd.shared.f60a34b74.min.css",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/css/deriv-staged-2dfc316890fbbd8e3ed6d351bd.shared.f60a34b74.min.css",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/css/deriv-staged-2dfc316890fbbd8e3ed6d351bd.6756a4e01c80434774a2ec34-8001bd903.min.css",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/css/deriv-staged-2dfc316890fbbd8e3ed6d351bd.6756a4e01c80434774a2ec34-8001bd903.min.css",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65c76c6482e68a9e09d9b765/65c773033acbd57cd18cc4c8_deriv_favicon_32.png",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/65c76c6482e68a9e09d9b765/65c773033acbd57cd18cc4c8_deriv_favicon_32.png",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65c76c6482e68a9e09d9b765/65c7730a457546181fec95a5_deriv_favicon_256.png",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/65c76c6482e68a9e09d9b765/65c7730a457546181fec95a5_deriv_favicon_256.png",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com",
+      "text": "No text found",
+      "type": "page",
+      "domain": "cdn.prod.website-files.com",
+      "path": "",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://unpkg.com/@deriv-com/custom-scripts@1.26.47/dist/css/styles.min.css",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "unpkg.com",
+      "path": "/@deriv-com/custom-scripts@1.26.47/dist/css/styles.min.css",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://unpkg.com/@deriv-com/analytics@1.31.8/dist/analytics.bundle.js",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "unpkg.com",
+      "path": "/@deriv-com/analytics@1.31.8/dist/analytics.bundle.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.datadoghq-browser-agent.com/datadog-rum.js",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "www.datadoghq-browser-agent.com",
+      "path": "/datadog-rum.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=66585fe0e1dc7e70cc75d440",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "d3e54v103j8qbb.cloudfront.net",
+      "path": "/js/jquery-3.5.1.min.dc5e7f18c8.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/js/deriv-staged-2dfc316890fbbd8e3ed6d351bd.f518d165.5ea5c5c274fdd218.js",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/js/deriv-staged-2dfc316890fbbd8e3ed6d351bd.f518d165.5ea5c5c274fdd218.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-mirrorclick@1/mirrorclick.js",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "cdn.jsdelivr.net",
+      "path": "/npm/@finsweet/attributes-mirrorclick@1/mirrorclick.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "cdn.jsdelivr.net",
+      "path": "/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://unpkg.com/@deriv-com/custom-scripts@1.26.49/dist/js/footer_scripts.min.js",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "unpkg.com",
+      "path": "/@deriv-com/custom-scripts@1.26.49/dist/js/footer_scripts.min.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@deriv-com/webflow-plugins@1.0.49/dist/plugins/authflow.js",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "cdn.jsdelivr.net",
+      "path": "/npm/@deriv-com/webflow-plugins@1.0.49/dist/plugins/authflow.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://unpkg.com/@johanaarstein/dotlottie-player@1.5.23/dist/index.js",
+      "text": "No text found",
+      "type": "asset",
+      "domain": "unpkg.com",
+      "path": "/@johanaarstein/dotlottie-player@1.5.23/dist/index.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6789eea4099e81e883a90e36_trading-view.webp",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6789eea4099e81e883a90e36_trading-view.webp",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69d6_derivtrader-navbar.webp",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69d6_derivtrader-navbar.webp",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69e2_navbar_academy.webp",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69e2_navbar_academy.webp",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ca_whychooseus-navbar.webp",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ca_whychooseus-navbar.webp",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757e5e572227e392b5db34e_background-new.webp",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757e5e572227e392b5db34e_background-new.webp",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/683928506676896290d68f91_trustpilot-stars.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/683928506676896290d68f91_trustpilot-stars.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69e7_others-trustpilot.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69e7_others-trustpilot.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6992_right%20wheat.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6992_right%20wheat.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6991_left%20wheat.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6991_left%20wheat.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b1_payment%20method-mpesa.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b1_payment%20method-mpesa.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b0_payment%20method-visa%20electron.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b0_payment%20method-visa%20electron.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b2_payment%20method-pix.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b2_payment%20method-pix.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c0_payment%20method-upineo.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c0_payment%20method-upineo.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b7_payment%20method-help2pay.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b7_payment%20method-help2pay.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6994_payment%20method-visa.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6994_payment%20method-visa.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a1_payment%20method-mtn.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a1_payment%20method-mtn.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bd_payment%20method-vodafone.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bd_payment%20method-vodafone.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b9_payment%20method-maestro.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b9_payment%20method-maestro.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699e_payment%20method-mastercard.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699e_payment%20method-mastercard.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a2_payment%20method-bnb.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a2_payment%20method-bnb.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bb_payment%20method-pago%20efectivo.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bb_payment%20method-pago%20efectivo.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c6_payment%20method-paysafecard.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c6_payment%20method-paysafecard.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69aa_payment%20method-advcash.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69aa_payment%20method-advcash.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c4_payment%20method-airtm.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c4_payment%20method-airtm.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699f_payment%20method-astropay.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699f_payment%20method-astropay.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6854ef86ec88df6c3fbeda71_payment%20method-jetonbank.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6854ef86ec88df6c3fbeda71_payment%20method-jetonbank.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6854ef86bf4840559db113a6_payment%20method-binance%20pay.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6854ef86bf4840559db113a6_payment%20method-binance%20pay.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6993_payment%20method-neteller.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6993_payment%20method-neteller.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6854ef868b5987a609f050af_payment%20method-mpesa.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6854ef868b5987a609f050af_payment%20method-mpesa.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ad_payment%20method-skrill.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ad_payment%20method-skrill.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6997_payment%20method-skrill%201-tap.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6997_payment%20method-skrill%201-tap.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ab_payment%20method-banxa.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ab_payment%20method-banxa.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bc_payment%20method-spei.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bc_payment%20method-spei.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c3_payment%20method-ozow.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c3_payment%20method-ozow.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bf_payment%20method-sticpay.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bf_payment%20method-sticpay.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a3_payment%20method-bitcoin.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a3_payment%20method-bitcoin.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a5_payment%20method-ethereum.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a5_payment%20method-ethereum.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6996_payment%20method-litecoin.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6996_payment%20method-litecoin.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c5_payment%20method-usd%20coin.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c5_payment%20method-usd%20coin.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699c_payment%20method-10%20coins.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699c_payment%20method-10%20coins.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69be_payment%20method-bitcoin%20cash.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69be_payment%20method-bitcoin%20cash.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a4_payment%20method-dogecoin.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a4_payment%20method-dogecoin.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ba_payment%20method-tron.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ba_payment%20method-tron.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a0_payment%20method-cardano.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a0_payment%20method-cardano.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b8_payment%20method-oxxo.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b8_payment%20method-oxxo.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699d_payment%20method-deriv%20p2p.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699d_payment%20method-deriv%20p2p.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a9_payment%20method-pse.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a9_payment%20method-pse.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69da_testimonial-stars.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69da_testimonial-stars.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/67bb2ae3de30948f36ad025f_left-arrow-icon.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/67bb2ae3de30948f36ad025f_left-arrow-icon.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/67bb2a397a2ea65794d550da_right-arrow.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/67bb2a397a2ea65794d550da_right-arrow.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/68358e9ce58c2c5b944ab8aa_trustpilot_rating.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/68358e9ce58c2c5b944ab8aa_trustpilot_rating.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/677cfad9dd757e95ee7fb4d9_image%20phone.webp",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/677cfad9dd757e95ee7fb4d9_image%20phone.webp",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a61_card-2.webp",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a61_card-2.webp",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a59_card-3.webp",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a59_card-3.webp",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a06_phone-base-new.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a06_phone-base-new.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6808b6e5377f87264126fed1_Tradershub.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6808b6e5377f87264126fed1_Tradershub.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69db_logo.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69db_logo.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69dd_investor%20in%20people.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69dd_investor%20in%20people.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69de_deriv%20product-deriv%20go.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69de_deriv%20product-deriv%20go.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69df_deriv.link_derivgo.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69df_deriv.link_derivgo.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a07_app%20store%20download%20badge%20-%20Google%20Play.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a07_app%20store%20download%20badge%20-%20Google%20Play.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a13_app%20store%20download%20badge%20-%20Apple%20App%20Store.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a13_app%20store%20download%20badge%20-%20Apple%20App%20Store.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a14_app%20store%20download%20badge%20-%20Huawei%20AppGallery.svg",
+      "text": "No text found",
+      "type": "image",
+      "domain": "cdn.prod.website-files.com",
+      "path": "/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a14_app%20store%20download%20badge%20-%20Huawei%20AppGallery.svg",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "www.googletagmanager.com",
+      "path": "/gtm.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@deriv-com/marketing-utils@${marketingCookiejsVersion}/dist/cookie.js`",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "cdn.jsdelivr.net",
+      "path": "/npm/@deriv-com/marketing-utils@${marketingCookiejsVersion}/dist/cookie.js`",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "cdn.jsdelivr.net",
+      "path": "/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "www.datadoghq-browser-agent.com",
+      "path": "/us1/v5/datadog-rum.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.trackjs.com/agent/v3/latest/t.js",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "cdn.trackjs.com",
+      "path": "/agent/v3/latest/t.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@deriv-com/cs-utils@1.0.13/dist/intercom.js",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "cdn.jsdelivr.net",
+      "path": "/npm/@deriv-com/cs-utils@1.0.13/dist/intercom.js",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://region-assets.deriv.be/hero.webp');",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "region-assets.deriv.be",
+      "path": "/hero.webp')",
+      "found_on_page": "https://deriv.com/"
+    },
+    {
+      "url": "https://region-assets.deriv.me/hero.webp');",
+      "text": "Found in script",
+      "type": "script_url",
+      "domain": "region-assets.deriv.me",
+      "path": "/hero.webp')",
+      "found_on_page": "https://deriv.com/"
+    }
+  ],
+  "email_links": [],
+  "phone_links": [],
+  "summary": {
+    "internal_count": 74,
+    "external_count": 106,
+    "email_count": 0,
+    "phone_count": 0,
+    "total_count": 180
+  }
+}
+]

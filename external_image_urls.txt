@@ -1,0 +1,200 @@
+EXTERNAL IMAGE URLS
+===================
+Generated on: 2025-09-05 23:53:02
+Total URLs: 65
+
+1. https://cdn.prod.website-files.com/65c76c6482e68a9e09d9b765/65c773033acbd57cd18cc4c8_deriv_favicon_32.png
+   Type: image
+
+2. https://cdn.prod.website-files.com/65c76c6482e68a9e09d9b765/65c7730a457546181fec95a5_deriv_favicon_256.png
+   Type: image
+
+3. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6789eea4099e81e883a90e36_trading-view.webp
+   Type: image
+
+4. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69d6_derivtrader-navbar.webp
+   Type: image
+
+5. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69e2_navbar_academy.webp
+   Type: image
+
+6. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ca_whychooseus-navbar.webp
+   Type: image
+
+7. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757e5e572227e392b5db34e_background-new.webp
+   Type: image
+
+8. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/683928506676896290d68f91_trustpilot-stars.svg
+   Type: image
+
+9. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69e7_others-trustpilot.svg
+   Type: image
+
+10. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6992_right%20wheat.svg
+   Type: image
+
+11. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6991_left%20wheat.svg
+   Type: image
+
+12. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b1_payment%20method-mpesa.svg
+   Type: image
+
+13. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b0_payment%20method-visa%20electron.svg
+   Type: image
+
+14. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b2_payment%20method-pix.svg
+   Type: image
+
+15. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c0_payment%20method-upineo.svg
+   Type: image
+
+16. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b7_payment%20method-help2pay.svg
+   Type: image
+
+17. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6994_payment%20method-visa.svg
+   Type: image
+
+18. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a1_payment%20method-mtn.svg
+   Type: image
+
+19. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bd_payment%20method-vodafone.svg
+   Type: image
+
+20. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b9_payment%20method-maestro.svg
+   Type: image
+
+21. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699e_payment%20method-mastercard.svg
+   Type: image
+
+22. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a2_payment%20method-bnb.svg
+   Type: image
+
+23. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bb_payment%20method-pago%20efectivo.svg
+   Type: image
+
+24. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c6_payment%20method-paysafecard.svg
+   Type: image
+
+25. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69aa_payment%20method-advcash.svg
+   Type: image
+
+26. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c4_payment%20method-airtm.svg
+   Type: image
+
+27. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699f_payment%20method-astropay.svg
+   Type: image
+
+28. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6854ef86ec88df6c3fbeda71_payment%20method-jetonbank.svg
+   Type: image
+
+29. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6854ef86bf4840559db113a6_payment%20method-binance%20pay.svg
+   Type: image
+
+30. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6993_payment%20method-neteller.svg
+   Type: image
+
+31. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6854ef868b5987a609f050af_payment%20method-mpesa.svg
+   Type: image
+
+32. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ad_payment%20method-skrill.svg
+   Type: image
+
+33. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6997_payment%20method-skrill%201-tap.svg
+   Type: image
+
+34. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ab_payment%20method-banxa.svg
+   Type: image
+
+35. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bc_payment%20method-spei.svg
+   Type: image
+
+36. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c3_payment%20method-ozow.svg
+   Type: image
+
+37. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69bf_payment%20method-sticpay.svg
+   Type: image
+
+38. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a3_payment%20method-bitcoin.svg
+   Type: image
+
+39. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a5_payment%20method-ethereum.svg
+   Type: image
+
+40. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c6996_payment%20method-litecoin.svg
+   Type: image
+
+41. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69c5_payment%20method-usd%20coin.svg
+   Type: image
+
+42. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699c_payment%20method-10%20coins.svg
+   Type: image
+
+43. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69be_payment%20method-bitcoin%20cash.svg
+   Type: image
+
+44. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a4_payment%20method-dogecoin.svg
+   Type: image
+
+45. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69ba_payment%20method-tron.svg
+   Type: image
+
+46. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a0_payment%20method-cardano.svg
+   Type: image
+
+47. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69b8_payment%20method-oxxo.svg
+   Type: image
+
+48. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c699d_payment%20method-deriv%20p2p.svg
+   Type: image
+
+49. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69a9_payment%20method-pse.svg
+   Type: image
+
+50. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69da_testimonial-stars.svg
+   Type: image
+
+51. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/67bb2ae3de30948f36ad025f_left-arrow-icon.svg
+   Type: image
+
+52. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/67bb2a397a2ea65794d550da_right-arrow.svg
+   Type: image
+
+53. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/68358e9ce58c2c5b944ab8aa_trustpilot_rating.svg
+   Type: image
+
+54. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/677cfad9dd757e95ee7fb4d9_image%20phone.webp
+   Type: image
+
+55. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a61_card-2.webp
+   Type: image
+
+56. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a59_card-3.webp
+   Type: image
+
+57. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a06_phone-base-new.svg
+   Type: image
+
+58. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6808b6e5377f87264126fed1_Tradershub.svg
+   Type: image
+
+59. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69db_logo.svg
+   Type: image
+
+60. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69dd_investor%20in%20people.svg
+   Type: image
+
+61. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69de_deriv%20product-deriv%20go.svg
+   Type: image
+
+62. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df573bf331c84b6c69df_deriv.link_derivgo.svg
+   Type: image
+
+63. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a07_app%20store%20download%20badge%20-%20Google%20Play.svg
+   Type: image
+
+64. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a13_app%20store%20download%20badge%20-%20Apple%20App%20Store.svg
+   Type: image
+
+65. https://cdn.prod.website-files.com/66585fe0e1dc7e70cc75d440/6757df583bf331c84b6c6a14_app%20store%20download%20badge%20-%20Huawei%20AppGallery.svg
+   Type: image
+

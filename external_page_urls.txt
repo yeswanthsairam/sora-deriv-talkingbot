@@ -1,0 +1,54 @@
+EXTERNAL PAGE URLS
+==================
+Generated on: 2025-09-05 23:53:02
+Total URLs: 16
+
+1. https://www.trustpilot.com/review/deriv.com?utm_medium=trustbox&utm_source=Mini
+   Type: page
+
+2. https://www.trustpilot.com/reviews/6735048a9b114ef39d4d33ab
+   Type: page
+
+3. https://www.trustpilot.com/reviews/6735c274af06f8b66f7e208b
+   Type: page
+
+4. https://www.trustpilot.com/reviews/6736638bb5a94ebae4480c15
+   Type: page
+
+5. https://www.trustpilot.com/reviews/6735c85fa58a77f3c9cad43a
+   Type: page
+
+6. https://www.trustpilot.com/reviews/6733c76b1abe3a0b22bbd540
+   Type: page
+
+7. https://www.trustpilot.com/reviews/6735db5b6b0ccb9e97e5f281
+   Type: page
+
+8. https://www.trustpilot.com/reviews/67327e26ecb240d7f93823a0
+   Type: page
+
+9. https://api.whatsapp.com/send/?phone=35699578341&text&type=phone_number&app_absent=0
+   Type: page
+
+10. https://deriv.ae/
+   Text: Go to homepage
+   Type: page
+
+11. https://t.me/Derivchannelofficial
+   Type: page
+
+12. https://status.deriv.systems/
+   Type: page
+
+13. https://play.google.com/store/apps/details?id=com.deriv.app
+   Type: page
+
+14. https://apps.apple.com/my/app/deriv-go-online-trading-app/id1550561298
+   Type: page
+
+15. https://appgallery.huawei.com/app/C103801913
+   Type: page
+
+16. https://cdn.prod.website-files.com
+   Type: page
+
