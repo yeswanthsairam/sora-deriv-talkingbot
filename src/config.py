@@ -17,7 +17,7 @@ DERIV_THEME = {
 def load_deriv_urls():
     """Load URLs from deriv_urls.json"""
     try:
-        with open('/Users/ychinnapurapu/Deriv/deriv_urls.json', 'r') as f:
+        with open('/Users/ychinnapurapu/Deriv/data/deriv_urls.json', 'r') as f:
             data = json.load(f)
             if isinstance(data, list) and len(data) > 0:
                 return data[0].get('internal_urls', [])

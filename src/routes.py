@@ -2,15 +2,15 @@
 Routes module for Deriv Clone application
 """
 from flask import jsonify
-from config import DERIV_URLS
-from templates import render_page
-from content_generators import (
+from src.config import DERIV_URLS
+from src.templates import render_page
+from ai.content_generators import (
     get_homepage_content, 
     get_site_map_content, 
     get_market_content, 
     get_generic_content
 )
-from chat_handler import handle_chat
+from ai.chat_handler import handle_chat
 
 def register_routes(app):
     """Register all routes for the Flask app"""

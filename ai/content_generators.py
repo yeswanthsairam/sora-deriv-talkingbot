@@ -1,7 +1,7 @@
 """
 Content generators module for Deriv Clone application
 """
-from config import DERIV_URLS, DERIV_THEME
+from src.config import DERIV_URLS, DERIV_THEME
 
 def get_homepage_content():
     """Generate homepage content"""

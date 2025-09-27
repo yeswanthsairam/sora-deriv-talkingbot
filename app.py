@@ -2,8 +2,8 @@
 Main Flask application for Deriv Clone
 """
 from flask import Flask
-from config import DERIV_URLS
-from routes import register_routes, create_routes
+from src.config import DERIV_URLS
+from src.routes import register_routes, create_routes
 
 def create_app():
     """Create and configure Flask app"""

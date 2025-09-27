@@ -5,7 +5,7 @@ from flask import jsonify, request
 import uuid
 import asyncio
 import concurrent.futures
-from rag_agent import get_response
+from ai.rag_agent import get_response
 
 def handle_chat():
     """Handle chat endpoint for the chatbot"""
