@@ -98,34 +98,46 @@
 
 ## 📁 Project Structure
 
+**Total Files in Repository: 20**
+
 ```
 sora-deriv-talkingbot/
-├── app.py                    # 🚀 Main Flask application entry point
-├── requirements.txt          # 📦 Python dependencies
-├── src/                      # 🔧 Core Application
-│   ├── config.py            #   Configuration settings
-│   ├── routes.py            #   Route handlers and API endpoints  
-│   └── templates.py         #   HTML template renderer
-├── ai/                       # 🤖 AI/RAG Components
-│   ├── chat_handler.py      #   Chat functionality
-│   ├── rag_agent.py         #   RAG agent logic
-│   ├── rag_pipeline.py      #   RAG processing pipeline
-│   ├── voice_utils.py       #   Voice processing utilities
-│   └── content_generators.py #   Dynamic content generation
-├── data/                     # 📊 Data & Configuration
-│   └── deriv_urls.json      #   URL configuration data
-├── scrapy/                   # 🕷️ Web Scraping Tools
-│   ├── ScrapyUrls.py        #   Main spider for URL extraction
-│   ├── scrapy.cfg           #   Scrapy project configuration
-│   └── scrapy_settings.py   #   Spider behavior settings
-├── docs/                     # 📚 Documentation
-│   ├── setup_guide.md       #   Detailed setup instructions
-│   └── SOLUTION_FIXED.md    #   Technical documentation
-├── static/                   # 🎨 Frontend Assets
-│   ├── css/styles.css       #   Application styling
-│   └── js/chatbot.js        #   Frontend JavaScript
-└── .gitignore               # 🚫 Git exclusions
+├── app.py                    # Main Flask application entry point
+├── requirements.txt          # Python dependencies and package versions
+├── .gitignore               # Git exclusions for Python projects
+├── README.md                # Project documentation and setup guide
+├── src/                      # Core Application Components
+│   ├── config.py            #   Application configuration and theme settings
+│   ├── routes.py            #   Flask route handlers and API endpoints  
+│   └── templates.py         #   HTML template rendering system
+├── ai/                       # Artificial Intelligence and RAG Components  
+│   ├── chat_handler.py      #   Chat API endpoint and request processing
+│   ├── rag_agent.py         #   RAG agent with Google Gemini integration
+│   ├── rag_pipeline.py      #   RAG processing and retrieval pipeline
+│   ├── voice_utils.py       #   Voice processing and speech utilities
+│   └── content_generators.py #   Dynamic content generation for pages
+├── data/                     # Data Files and Configuration
+│   └── deriv_urls.json      #   URL configuration data for routing system
+├── scrapy/                   # Web Scraping and URL Discovery Tools
+│   ├── ScrapyUrls.py        #   Scrapy spider for Deriv website crawling
+│   ├── scrapy.cfg           #   Scrapy project configuration file
+│   └── scrapy_settings.py   #   Spider behavior and crawling settings
+├── docs/                     # Project Documentation
+│   ├── setup_guide.md       #   Detailed installation and setup instructions
+│   └── SOLUTION_FIXED.md    #   Technical implementation documentation
+└── static/                   # Frontend Static Assets
+    ├── css/styles.css       #   Modern UI styling and responsive design
+    └── js/chatbot.js        #   Frontend JavaScript for chat interface
 ```
+
+### Folder Purposes:
+
+- **src/** - Contains the core Flask application logic, configuration, routing, and template rendering
+- **ai/** - Houses all artificial intelligence components including RAG system, chat processing, and content generation  
+- **data/** - Stores configuration data files, particularly the URL routing configuration
+- **scrapy/** - Contains web scraping tools used to discover and categorize Deriv website URLs
+- **docs/** - Project documentation including setup guides and technical specifications
+- **static/** - Frontend assets including CSS styling and JavaScript for the user interface
 
 ## 🎯 Usage Examples
 
